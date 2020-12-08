@@ -6,3 +6,10 @@ EmguCV is used for simple object recognition(Canny) and also for complex object 
 Depending what object was detected - robot performs specific action.
 
 That was my first application ever so code is euphemistically speaking "messy".
+
+Here is example of some complex object recognition(footage was made when i haven't implemented communication with robot yet)
+https://youtu.be/4A4sLL_0gBg
+
+2 examples of programm controling robot actions:
+https://youtu.be/Sg0INKErfhc
+https://youtu.be/7U-mcLek7LU
