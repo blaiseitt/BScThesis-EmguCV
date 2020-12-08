@@ -13,3 +13,5 @@ https://youtu.be/4A4sLL_0gBg
 2 examples of programm controling robot actions:
 https://youtu.be/Sg0INKErfhc
 https://youtu.be/7U-mcLek7LU
+
+Before running make sure you have emguCV installed.
